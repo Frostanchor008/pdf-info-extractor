@@ -65,20 +65,19 @@
 
 ## 功能截图位置
 
-建议将演示截图放在：
+## 页面展示
 
-```text
-docs/images/
-```
+### 首页
 
-推荐截图：
+![首页](docs/images/homepage.png)
 
-- Streamlit 上传页面
-- 提取结果表格
-- Excel 导出结果
-- 示例 PDF 原文
+### 提取结果
 
-当前仓库已预留 `docs/images/.gitkeep`，后续可以直接放截图。
+![提取结果](docs/images/uploaded_result_table.png)
+
+### 导出结果
+
+![导出结果](docs/images/export_area.png)
 
 ## 安装依赖
 
