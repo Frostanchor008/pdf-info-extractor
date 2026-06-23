@@ -1,0 +1,3 @@
+﻿source_file,status,page_count,engine,invoice_no,date,customer,amount,tax_id,phone,email,text_preview,error
+sample_invoice_001.pdf,ok,1,pdfplumber,INV-2026-001,2026-06-01,上海星河教育科技有限公司,1280.50,91310000MA1K000001,13800138000,finance@example.com,服务费用确认单 编号: INV-2026-001 日期: 2026-06-01 客户名称: 上海星河教育科技有限公司 纳税人识别号: 91310000MA1K000001 联系电话: 13800138000 邮箱: finance@exam,
+sample_invoice_002.pdf,ok,1,pdfplumber,ORD-2026-0098,2026-06-12,杭州青木贸易有限公司,860.00,91330100MA2B000002,13900139000,ops@example.cn,项目验收回执 订单编号: ORD-2026-0098 订单日期: 2026-06-12 客户: 杭州青木贸易有限公司 统一社会信用代码: 91330100MA2B000002 手机: 13900139000 Email: ops@examp,
