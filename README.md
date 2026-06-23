@@ -69,15 +69,15 @@
 
 ### 首页
 
-![首页](docs/images/homepage.png)
+![首页](docs/homepage.png)
 
 ### 提取结果
 
-![提取结果](docs/images/uploaded_result_table.png)
+![提取结果](docs/uploaded_result_table.png)
 
 ### 导出结果
 
-![导出结果](docs/images/export_area.png)
+![导出结果](docs/export_area.png)
 
 ## 安装依赖
 
